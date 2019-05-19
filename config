@@ -1,4 +1,5 @@
 {
 "domain":"https://v2ge.com",
-"version":"1.0.0"
+"version":"1.0.1",
+"file":"https://raw.githubusercontent.com/laofeiwu/update/master/update.zip"
 }
