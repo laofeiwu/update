@@ -1,6 +1,6 @@
 {
 "domain":"https://v2ge.com",
-"version":"1.0.1",
+"version":"1.0.0",
 "asar":"https://raw.githubusercontent.com/laofeiwu/update/master/",
 "info":"fix bugs"
 }
